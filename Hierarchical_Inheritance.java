@@ -1,4 +1,4 @@
-public class SingleLevel {
+public class Hierarchical {
     public static void main(String args[]){
         Mammals human  = new Mammals();
         human.legs=2;
